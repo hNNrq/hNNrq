@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hNNrq
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJS
+- 💞️ I’m looking to collaborate on Front End
+- 📫 How to reach me @hnrqx
