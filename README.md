@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hNNrq
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJS
+- 🌱 I'm currently studying Systems Analysis and Development at FIAP
 - 📫 How to reach me @hnrqx
